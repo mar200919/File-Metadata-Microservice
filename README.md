@@ -1,9 +1,9 @@
 # Author
-![@Rafase282](https://avatars0.githubusercontent.com/Rafase282?&s=128)
+![@mar200919](https://avatars0.githubusercontent.com/u/11713907?s=460&v=4)
 
-Created by Rafase282
+Created by mar200919
 
-[Github](https://github.com/Rafase282) | [FreeCodeCamp](http://www.freecodecamp.com/rafase282) | [CodePen](http://codepen.io/Rafase282/) | [LinkedIn](https://www.linkedin.com/in/rafase282) | [Blog/Site](https://rafase282.wordpress.com/) | [E-Mail](mailto:rafase282@gmail.com)
+[Github](https://github.com/mar200919) | [FreeCodeCamp](http://www.freecodecamp.com/mar200919) | [CodePen](https://codepen.io/mar200919/)
 
 # FreeCodeCamp API: File Metadata Microservice
 ## User stories:
@@ -35,4 +35,4 @@ https://file-metadata-r282.herokuapp.com/upload
 ```
 
 The information displayed is all the information that is stored in a database. The files then gets deleted rigth away.
-In the future, uploading the the cloud could be implemented and then with the database the files could be retrieved using a get, this si not yet implemented and not in any futures plans to be.
+In the future, uploading the cloud could be implemented and then with the database the files could be retrieved using a get, this is not yet implemented and not in any futures plans to be.
